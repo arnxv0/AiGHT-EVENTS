@@ -1,0 +1,14 @@
+.custom-checkbox {
+    height: 20px;
+    width: 20px;
+    border: 3px solid white;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    background-color:  #1c1f21;
+    cursor: pointer;
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
